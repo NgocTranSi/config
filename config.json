@@ -4,11 +4,11 @@
     "domains_list": [
       {
         "enviroment": "test",
-        "domain": "http://192.168.1.245"
+        "domain": "http://192.168.1.240"
       },
       {
         "enviroment": "production",
-        "domain": "http://103.27.236.150:84"
+        "domain": "http://192.168.1.245"
       }
     ]
   }
