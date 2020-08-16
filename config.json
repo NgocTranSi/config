@@ -8,7 +8,7 @@
       },
       {
         "enviroment": "production",
-        "domain": "http://router.tymyspa.com:84"
+        "domain": "http://192.168.1.245"
       },
       {
         "enviroment": "Chung's developer team",
