@@ -4,7 +4,7 @@
     "domains_list": [
       {
         "enviroment": "test",
-        "domain": "http://router.tymyspa.com:85"
+        "domain": "http://router.tymyspa.com"
       },
       {
         "enviroment": "production",
