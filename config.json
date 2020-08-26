@@ -3,11 +3,11 @@
   "Data": {
     "domains_list": [
       {
-        "enviroment": "test",
-        "domain": "http://192.168.1.240"
+        "enviroment": "Internet App",
+        "domain": "http://router.tymyspa.com:84"
       },
       {
-        "enviroment": "production",
+        "enviroment": "LAN App",
         "domain": "http://192.168.1.245"
       },
       {
