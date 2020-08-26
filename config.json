@@ -4,7 +4,7 @@
     "domains_list": [
       {
         "enviroment": "test",
-        "domain": "http://router.tymyspa.com"
+        "domain": "http://192.168.1.240"
       },
       {
         "enviroment": "production",
