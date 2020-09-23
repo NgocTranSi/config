@@ -11,9 +11,10 @@
         "domain": "http://192.168.1.245"
       },
       {
-        "enviroment": "Chung's developer team",
+        "enviroment": "dev_team",
         "domain": "http://103.27.236.150:84"
       }
-    ]
+    ],
+    "arv" : true
   }
 }
