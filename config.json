@@ -12,7 +12,7 @@
       },
       {
         "enviroment": "dev_team",
-        "domain": "http://103.27.236.150:84"
+        "domain": "http://TymaApp.ddns.net:84"
       }
     ],
     "arv" : false
