@@ -11,6 +11,10 @@
         "domain": "http://192.168.1.245"
       },
       {
+        "enviroment": "Production Second",
+        "domain": "http://14.10.66.2"
+      },
+      {
         "enviroment": "dev_team",
         "domain": "http://103.27.236.150:84"
       }
